@@ -1,0 +1,8 @@
+# Optional additional search domains
+hostname_domains:
+  - exa.pm
+  - exa.onl
+# Optional aliases for 127.0.1.1 entry
+hostname_aliases:
+  - www
+  - api

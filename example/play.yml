@@ -1,0 +1,4 @@
+- name: configure hostname
+  hosts: all
+  roles:
+    - role: ansible-role-hostname
